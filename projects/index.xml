@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Projects on IOTA</title>
+    <link>https://iota-iiits.tech/projects/</link>
+    <description>Recent content in Our Projects on IOTA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Nov 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://iota-iiits.tech/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YouTube Live Chat</title>
+      <link>https://iota-iiits.tech/projects/post-2/</link>
+      <pubDate>Tue, 03 Nov 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://iota-iiits.tech/projects/post-2/</guid>
+      <description>We made a custom web application to get chats from a YouTube Live Stream. We can then show the comment in a formatted manner.</description>
+    </item>
+    
+    <item>
+      <title>Heutagogy Project</title>
+      <link>https://iota-iiits.tech/projects/post-1/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://iota-iiits.tech/projects/post-1/</guid>
+      <description>The students developed an application based on heutagogy which is planned to be used in the Govt.</description>
+    </item>
+    
+  </channel>
+</rss>

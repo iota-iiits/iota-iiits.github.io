@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on IOTA</title>
+    <link>https://iota-iiits.tech/tags/</link>
+    <description>Recent content in Tags on IOTA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Nov 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://iota-iiits.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript</title>
+      <link>https://iota-iiits.tech/tags/javascript/</link>
+      <pubDate>Tue, 03 Nov 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://iota-iiits.tech/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://iota-iiits.tech/tags/web-development/</link>
+      <pubDate>Tue, 03 Nov 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://iota-iiits.tech/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App Development</title>
+      <link>https://iota-iiits.tech/tags/app-development/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://iota-iiits.tech/tags/app-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter</title>
+      <link>https://iota-iiits.tech/tags/flutter/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://iota-iiits.tech/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
