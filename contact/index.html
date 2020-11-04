@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en-us"><head>
-  <style>
+<html lang="en-us">
+<head>  <style>
   	@media (max-width: 768px)
   	{
   		#temp{
@@ -46,8 +46,11 @@
 
   
   
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
 
-</head><body><!-- navigation -->
+
+<body><!-- navigation -->
 <header class="navigation">
   
   
@@ -131,6 +134,7 @@
             id="name"
             name="name"
             placeholder="Your Name"
+            required="true"
           />
           <input
             type="email"
@@ -138,6 +142,7 @@
             id="mail"
             name="mail"
             placeholder="Your Email"
+            required="true"
           />
           <input
             type="text"
@@ -145,6 +150,7 @@
             id="subject"
             name="subject"
             placeholder="Subject"
+            required="true"
           />
           <textarea
             name="message"
@@ -152,6 +158,7 @@
             class="form-control mb-3"
             placeholder="Your Message"
           ></textarea>
+          <div class="g-recaptcha" data-sitekey="6Leb0d4ZAAAAAGVyhDRwJVu3V4XT27wc7z0RDKab"></div>
           <input
             type="checkbox"
             name="a_random_custom_name"
